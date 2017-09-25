@@ -1,0 +1,6 @@
+When you open the zip you should see a ReadMe.txt file. 
+That file contains the instructions on how to run the program. 
+I tried my best to make sure all the bugs were ironed out, 
+but without having real data to test it on I'm not fully confident that 
+it will work perfectly the first time. Let me know if you see any lines 
+that say "ERROR" when the program is running or if the spreadsheets look weird. 
